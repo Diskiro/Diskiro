@@ -1,135 +1,45 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Diskiro/Diskiro/main/joshua_portafolio_logo.jpeg" width="300"/>
-</p>
+<h1 align="center">Hey 👋 I'm Joshua (Diskiro)</h1> // <--- NUEVO
 
-<h1 align="center">Joshua Andrade Medel</h1>
-<h3 align="center">Fullstack Engineer | Solution Architect Mindset</h3>
+###
 
-<p align="center">
-  Building scalable web applications with modern frontend architecture and robust backend systems.
-</p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java" height="60" alt="java logo"  /> // <--- NUEVO
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo"  /> // <--- NUEVO
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo"  /> // <--- NUEVO
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="nodejs logo"  /> // <--- NUEVO
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=supabase" height="60" alt="supabase logo"  /> // <--- NUEVO
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
+</div>
 
----
+###
 
-## 🧠 About Me
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+</div>
 
-I'm a Fullstack Engineer with 4+ years of experience designing and building scalable web applications across enterprise and e-commerce environments.
+###
 
-I specialize in:
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Diskiro&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  /> // <--- NUEVO
+  <img src="https://github-profile-trophy.vercel.app?username=Diskiro&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  /> // <--- NUEVO
+</div>
 
-- Modern Frontend Architecture (React, TypeScript, Next.js, Vue)
-- Backend Services with Java & Spring Boot
-- REST API Design & Microservices
-- Performance Optimization
-- Clean Code & Type Safety
-- Magento 2 Integrations
+###
 
-I don’t just write code — I design systems.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Diskiro/Diskiro/output/pacman-contribution-graph-dark.svg"> // <--- NUEVO
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Diskiro/Diskiro/output/pacman-contribution-graph.svg"> // <--- NUEVO
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Diskiro/Diskiro/output/pacman-contribution-graph.svg"> // <--- NUEVO
+</picture>
 
-Currently working at the **National Electoral Institute (INE)** in Mexico, contributing to national-scale applications and backend microservices architecture.
-
----
-
-## 🚀 Tech Stack
-
-### Frontend Architecture
-- React.js
-- TypeScript
-- Next.js
-- Vue.js
-- Tailwind CSS
-- Redux Toolkit
-- Storybook
-- Jest / React Testing Library
-
-### Backend & APIs
-- Java
-- Spring Boot
-- Node.js
-- REST APIs
-- Microservices
-- JWT Authentication
-- API Integration
-
-### Engineering Practices
-- Clean Architecture
-- OOP & Design Patterns
-- Strict TypeScript Mode
-- Git Flow
-- Performance Profiling
-- Agile / Scrum
-
----
-
-## 🏢 Enterprise Experience
-
-### National Electoral Institute (INE)
-
-- Developed and maintained scalable frontend systems using React & Tailwind
-- Built and connected REST APIs with Spring Boot
-- Implemented backend microservices to improve server-side processing
-- Optimized performance across multiple production environments
-- Worked in high-responsibility, national-scale systems
-
----
-
-## 💼 Featured Projects
-
-### 🔹 EasyOrder  
-Scalable ordering system with modern frontend architecture and structured backend integration.
-
-👉 https://github.com/Diskiro/EasyOrder
-
----
-
-### 🔹 JREssentials  
-Java-based utilities and architectural foundations for backend development.
-
-👉 https://github.com/Diskiro/JREssentials
-
----
-
-## 🧩 Engineering Philosophy
-
-- Code should scale.
-- Types prevent bugs.
-- Architecture matters more than trends.
-- Performance is a feature.
-- Clean code is a responsibility.
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Diskiro&show_icons=true&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diskiro&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-## 🌎 Open to Opportunities
-
-I’m open to:
-
-- International Remote Roles
-- Fullstack Engineering Positions
-- Frontend Architecture Roles
-- Backend Java/Spring Boot Projects
-- Freelance High-Impact Projects
-
----
-
-## 📩 Let's Connect
-
-- LinkedIn: https://linkedin.com/in/joshua-andrade-medel-973b1313a/
-- Email: joshuaanme@outlook.com
-
-If you're looking for a technically strong engineer who understands architecture, performance, and scalability — let's talk.
-
----
-
-⭐ If you find my work valuable, consider following my profile.
+###
